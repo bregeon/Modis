@@ -3,3 +3,4 @@ Scripts to handle MODIS data
 - can easily be adapted to other sites
 - data shall be downloaded from NASA Eart data web portal
 
+Author: Johan Bregeon (bregeon_at_in2p3.fr)
